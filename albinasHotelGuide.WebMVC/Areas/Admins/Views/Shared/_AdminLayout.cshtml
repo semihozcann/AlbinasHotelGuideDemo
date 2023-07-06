@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - albinasHotelGuide.WebMVC</title>
+
+    @await Html.PartialAsync("_AdminLayoutCssPartial")
+
+</head>
+
+<body>
+
+    <partial name="_AdminHeader" />
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+
+    <partial name="_AdminFooter" />
+
+    @await Html.PartialAsync("_AdminLayoutJsPartial");
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

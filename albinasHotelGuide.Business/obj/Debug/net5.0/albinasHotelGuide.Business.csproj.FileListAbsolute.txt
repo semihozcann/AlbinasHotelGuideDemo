@@ -1,0 +1,34 @@
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Business\bin\Debug\net5.0\albinasHotelGuide.Business.deps.json
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Business\bin\Debug\net5.0\albinasHotelGuide.Business.dll
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Business\bin\Debug\net5.0\albinasHotelGuide.Business.pdb
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Business\bin\Debug\net5.0\albinasHotelGuide.DataAccess.dll
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Business\bin\Debug\net5.0\albinasHotelGuide.Entities.dll
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Business\bin\Debug\net5.0\albinasHotelGuide.DataAccess.pdb
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Business\bin\Debug\net5.0\albinasHotelGuide.Entities.pdb
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Business\obj\Debug\net5.0\albinasHotelGuide.Business.csproj.AssemblyReference.cache
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Business\obj\Debug\net5.0\albinasHotelGuide.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Business\obj\Debug\net5.0\albinasHotelGuide.Business.AssemblyInfoInputs.cache
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Business\obj\Debug\net5.0\albinasHotelGuide.Business.AssemblyInfo.cs
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Business\obj\Debug\net5.0\albinasHotelGuide.Business.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Business\obj\Debug\net5.0\albinasHotelGuide.Business.csproj.CopyComplete
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Business\obj\Debug\net5.0\albinasHotelGuide.Business.dll
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Business\obj\Debug\net5.0\refint\albinasHotelGuide.Business.dll
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Business\obj\Debug\net5.0\albinasHotelGuide.Business.pdb
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Business\obj\Debug\net5.0\ref\albinasHotelGuide.Business.dll
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Business\bin\Debug\net5.0\albinasHotelGuide.Business.deps.json
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Business\bin\Debug\net5.0\albinasHotelGuide.Business.dll
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Business\bin\Debug\net5.0\albinasHotelGuide.Business.pdb
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Business\bin\Debug\net5.0\albinasHotelGuide.DataAccess.dll
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Business\bin\Debug\net5.0\albinasHotelGuide.Entities.dll
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Business\bin\Debug\net5.0\albinasHotelGuide.DataAccess.pdb
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Business\bin\Debug\net5.0\albinasHotelGuide.Entities.pdb
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Business\obj\Debug\net5.0\albinasHotelGuide.Business.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Business\obj\Debug\net5.0\albinasHotelGuide.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Business\obj\Debug\net5.0\albinasHotelGuide.Business.AssemblyInfoInputs.cache
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Business\obj\Debug\net5.0\albinasHotelGuide.Business.AssemblyInfo.cs
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Business\obj\Debug\net5.0\albinasHotelGuide.Business.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Business\obj\Debug\net5.0\albinasHotelGuide.Business.csproj.CopyComplete
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Business\obj\Debug\net5.0\albinasHotelGuide.Business.dll
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Business\obj\Debug\net5.0\refint\albinasHotelGuide.Business.dll
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Business\obj\Debug\net5.0\albinasHotelGuide.Business.pdb
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Business\obj\Debug\net5.0\ref\albinasHotelGuide.Business.dll

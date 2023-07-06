@@ -1,0 +1,24 @@
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Entities\bin\Debug\net5.0\albinasHotelGuide.Entities.deps.json
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Entities\bin\Debug\net5.0\albinasHotelGuide.Entities.dll
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Entities\bin\Debug\net5.0\albinasHotelGuide.Entities.pdb
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Entities\obj\Debug\net5.0\albinasHotelGuide.Entities.csproj.AssemblyReference.cache
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Entities\obj\Debug\net5.0\albinasHotelGuide.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Entities\obj\Debug\net5.0\albinasHotelGuide.Entities.AssemblyInfoInputs.cache
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Entities\obj\Debug\net5.0\albinasHotelGuide.Entities.AssemblyInfo.cs
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Entities\obj\Debug\net5.0\albinasHotelGuide.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Entities\obj\Debug\net5.0\albinasHotelGuide.Entities.dll
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Entities\obj\Debug\net5.0\refint\albinasHotelGuide.Entities.dll
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Entities\obj\Debug\net5.0\albinasHotelGuide.Entities.pdb
+C:\Users\Murat\Desktop\SEMİH\Devam Eden Projeler\albinasHotelGuide\albinasHotelGuide.Entities\obj\Debug\net5.0\ref\albinasHotelGuide.Entities.dll
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Entities\bin\Debug\net5.0\albinasHotelGuide.Entities.deps.json
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Entities\bin\Debug\net5.0\albinasHotelGuide.Entities.dll
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Entities\bin\Debug\net5.0\albinasHotelGuide.Entities.pdb
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Entities\obj\Debug\net5.0\albinasHotelGuide.Entities.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Entities\obj\Debug\net5.0\albinasHotelGuide.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Entities\obj\Debug\net5.0\albinasHotelGuide.Entities.AssemblyInfoInputs.cache
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Entities\obj\Debug\net5.0\albinasHotelGuide.Entities.AssemblyInfo.cs
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Entities\obj\Debug\net5.0\albinasHotelGuide.Entities.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Entities\obj\Debug\net5.0\albinasHotelGuide.Entities.dll
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Entities\obj\Debug\net5.0\refint\albinasHotelGuide.Entities.dll
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Entities\obj\Debug\net5.0\albinasHotelGuide.Entities.pdb
+C:\Users\semih\Desktop\albinashotelguide-main\albinashotelguide-main\albinasHotelGuide.Entities\obj\Debug\net5.0\ref\albinasHotelGuide.Entities.dll
